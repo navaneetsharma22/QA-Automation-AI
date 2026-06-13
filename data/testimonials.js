@@ -1,0 +1,32 @@
+export const TESTIMONIALS_DATA = [
+  {
+    quote: "QA Intelligence reduced our manual review time by 87%. What used to take our team three days now takes under two hours. The evidence-backed findings are exactly what our compliance team needed.",
+    name: "Rachel Okonkwo",
+    role: "Head of Quality Assurance",
+    company: "Emirates Group",
+    industry: "Aviation",
+    avatar: "RO",
+    color: "#7c3aed",
+    metric: "87% time reduction",
+  },
+  {
+    quote: "We were skeptical about AI replacing human QA judgment. After piloting on 500 conversations, the detection accuracy exceeded our senior QA analysts. It even catches nuances we'd miss after hour 6 of reviewing.",
+    name: "Marcus Chen",
+    role: "VP Customer Operations",
+    company: "Axiata Telecom",
+    industry: "Telecommunications",
+    avatar: "MC",
+    color: "#06b6d4",
+    metric: "98.4% accuracy",
+  },
+  {
+    quote: "The report format is exactly what we needed for regulatory submissions. The evidence is cited, the policy violations are clear, and our auditors actually commented on how well-structured the QA findings are.",
+    name: "Priya Krishnamurthy",
+    role: "Chief Compliance Officer",
+    company: "HDFC Insurance",
+    industry: "Financial Services",
+    avatar: "PK",
+    color: "#10b981",
+    metric: "Audit-ready reports",
+  },
+];
